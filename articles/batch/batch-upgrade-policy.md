@@ -6,7 +6,7 @@ ms.date: 10/30/2023
 ms.custom: 
 ---
 
-# Create an Azure Batch pool with Automatic Operation System (OS) Upgrade
+# Create an Azure Batch pool with Automatic Operating System (OS) Upgrade
 
 > [!IMPORTANT]
 > - Support for pools with Auto OS Upgrade in Azure Batch is currently in public preview, and is currently controlled by an account-level feature flag. If you want to use this feature, please start a [support request](../azure-portal/supportability/how-to-create-azure-support-request.md) and provide your batch account to request its activation.
